@@ -1,0 +1,22 @@
+body {
+    background-color: #1970E6;
+}
+
+h1 {
+    color: rgb(248, 244, 245);
+}
+
+.friend {
+    background-color: #E68F19;
+    color: rgb(248, 244, 245);
+    border-radius: 3px;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
+
+.button {
+    background-color: rgb(223, 162, 30);
+    border-radius: 5px;
+}
